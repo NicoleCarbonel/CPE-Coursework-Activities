@@ -1,5 +1,5 @@
 # CMPE 361 — Enterprise Networking
-## Exercise 2: Network Security (Packet Sniffing, Encryption & Hashing)
+## Exercise: Network Security (Packet Sniffing, Encryption & Hashing)
 
 This repository documents a lab exercise exploring network packet sniffing with Wireshark, classical encryption with the Vigenère cipher, and cryptographic hashing (MD5/MD4).
 
@@ -137,5 +137,4 @@ This exercise showed how vulnerable unencrypted network traffic is to intercepti
 
 ---
 
-*CMPE 361: Enterprise Networking — Exercise 2, Network Security*
-*Instructor: Engr. Orlando V. Pajabera*
+*CMPE 361: Enterprise Networking — Exercise, Network Security*
