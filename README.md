@@ -11,7 +11,8 @@ The repository is organized by course. Each course folder contains its own lab a
 ```
 CPE-Coursework-Activities/
 ├── Enterprise-Networking/
-│   └── Lab-Packet-Sniffing-Encryption/
+│   └── Packet-Sniffing-Encryption/
+│       └── README.md
 ├── Intro-to-Cybersecurity/
 │   └── (labs to be added)
 ├── Cloud-Computing/
@@ -23,7 +24,7 @@ CPE-Coursework-Activities/
 
 | Course | Activity | Description |
 |---|---|---|
-| Enterprise Networking | [Lab — Packet Sniffing & Encryption](./Enterprise-Networking/Lab-Packet-Sniffing-Encryption) | Wireshark packet sniffing, Vigenère cipher, and MD5/MD4 hashing |
+| Enterprise Networking | [Packet Sniffing & Encryption](./Enterprise-Networking/Packet-Sniffing-Encryption) | Wireshark packet sniffing, Vigenère cipher, and MD5/MD4 hashing |
 | Introduction to Cybersecurity | *(coming soon)* | |
 | Cloud Computing | *(coming soon)* | |
 
